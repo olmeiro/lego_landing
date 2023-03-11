@@ -1,0 +1,12 @@
+:root {
+  --yellow: #ffd602;
+  --red: #d5040a;
+  --blue: #036cb6;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+}
