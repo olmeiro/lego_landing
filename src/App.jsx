@@ -8,7 +8,7 @@ import Loader from './components/Loader'
 
 import { useEffect, useState } from 'react'
 
-function App() {useState
+function App() {
   const [timeLoader, settimeLoader] = useState(true)
 
   useEffect(() => {
